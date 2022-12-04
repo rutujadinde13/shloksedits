@@ -1,10 +1,19 @@
 package com.concerto.springbootmvc.complaintmanagementsystem.entity;
 
+import java.io.Serializable;
+
 import javax.persistence.Embeddable;
 
-@Embeddable
-public class Support {
 
+
+//support class can be embedded in Complaint class 
+@Embeddable
+public class Support implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String status;
 	private String comments;
 	
@@ -13,6 +22,9 @@ public class Support {
 		return "Support [status=" + status + ", comments=" + comments + "]";
 	}
 
+	public String getStatus() {
+		return status;
+	}
 
 	public void setStatus(String status) {
 		this.status = status;
@@ -28,7 +40,7 @@ public class Support {
 
 	public Support() {
 		super();
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public Support(String status, String comments) {
@@ -36,8 +48,6 @@ public class Support {
 		this.status = status;
 		this.comments = comments;
 	}
-
-	public String getStatus() {
-		return status;
-	}
+	
+	
 }

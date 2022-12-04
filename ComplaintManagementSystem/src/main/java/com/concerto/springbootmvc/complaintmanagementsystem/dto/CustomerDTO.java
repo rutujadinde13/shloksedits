@@ -6,6 +6,11 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+import java.util.Date;
+
+import org.springframework.format.annotation.DateTimeFormat;
+
+//customer DTO 
 @Getter
 @Setter
 @NoArgsConstructor
@@ -17,6 +22,11 @@ public class CustomerDTO {
 	private String customerUsername;
 	private String customerName;
 	private String password;
-	
-	
+
+	private String contact;
+
+	private String email;
+	@DateTimeFormat(pattern = "yyyy-MM-dd")
+	private Date dateOfBirth;
+
 }

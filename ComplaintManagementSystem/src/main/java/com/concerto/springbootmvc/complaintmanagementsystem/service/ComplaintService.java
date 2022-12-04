@@ -1,42 +1,50 @@
 package com.concerto.springbootmvc.complaintmanagementsystem.service;
 
-import com.concerto.springbootmvc.complaintmanagementsystem.entity.Customer;
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.concerto.springbootmvc.complaintmanagementsystem.converter.ComplaintConverter;
 import com.concerto.springbootmvc.complaintmanagementsystem.dto.ComplaintDTO;
-import com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaint;
+import com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints;
+import com.concerto.springbootmvc.complaintmanagementsystem.entity.Customer;
 import com.concerto.springbootmvc.complaintmanagementsystem.entity.Support;
 import com.concerto.springbootmvc.complaintmanagementsystem.repository.ComplaintRepository;
 
-import java.util.List;
-
+//Complaint Service 
 @Service
 public class ComplaintService {
 
 	@Autowired
 	private ComplaintRepository complaintRepository;
-	
-	
-    public Complaint saveComplaint(ComplaintDTO complaintDTO)
-    {
-    	
-    	Complaint complaints=ComplaintConverter.convertDtoToEntity(complaintDTO);
-    	Support support=new Support();
+
+	// Save the complaint Data in the database
+	public Complaints saveComplaint(ComplaintDTO complaintDTO) {
+
+		Complaints complaints = ComplaintConverter.convertDtoToEntity(complaintDTO);
+		Support support = new Support();
 		support.setStatus("in process");
 		support.setComments("in process");
 		complaints.setSupport(support);
-    	System.out.println(complaints);
-		return this.complaintRepository.save(complaints);
-    }
 
-	public List<Complaint> getComplaintByCustomer(Customer customer) {
+		return this.complaintRepository.save(complaints);
+
+	}
+
+	// Getting the list of complaints by customer id
+	public List<Complaints> getComplaintByCustomer(Customer customer) {
 		return complaintRepository.findByCustomer(customer);
 	}
 
-    public List<Complaint> getAllPendingComplaints(String status, String comments) {
+	// Getting the list of complaint status
+	public List<Complaints> getCustomerComplaintStatus(Customer customer) {
+		return complaintRepository.findCutsomerByStatus(customer);
+	}
 
-		return complaintRepository.findByStatusContainingAndCommentsContaining(status,comments);
-    }
+	// getting last complaint from database
+	public Complaints getLastComplaint() {
+		return this.complaintRepository.findLastComplaint();
+	}
+
 }

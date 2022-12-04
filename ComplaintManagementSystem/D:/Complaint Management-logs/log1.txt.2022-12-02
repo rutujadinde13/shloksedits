@@ -1,0 +1,688 @@
+2022-12-02 10:35:11 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 10:35:11 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 10:35:21 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 10:35:21 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 10:35:30 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 10:35:30 ERROR  - UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) finished with Exception - Username Not Found :shlok
+2022-12-02 10:35:30 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 10:35:30 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 10:35:48 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 10:35:48 ERROR  - UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) finished with Exception - Username Not Found :shlok123
+2022-12-02 10:35:48 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 10:35:48 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 10:35:52 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.registerPage()
+2022-12-02 10:35:52 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.registerPage() successfully
+2022-12-02 10:37:20 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.registerCustomer(CustomerDTO)
+2022-12-02 10:37:20 INFO   - started boolean com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.saveCustomer(CustomerDTO)
+2022-12-02 10:37:20 INFO   - finished boolean com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.saveCustomer(CustomerDTO) successfully
+2022-12-02 10:37:20 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.registerCustomer(CustomerDTO) successfully
+2022-12-02 10:37:20 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 10:37:20 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 10:37:24 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 10:37:24 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 10:37:24 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 10:37:24 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 10:37:24 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 10:37:24 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 10:59:28 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 10:59:28 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 10:59:28 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 10:59:28 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:00:12 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:00:12 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:00:12 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:00:12 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:01:26 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:01:26 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:01:26 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:01:26 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:01:53 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:01:53 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:01:53 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:01:53 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:02:04 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:02:04 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:02:04 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:02:04 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:03:29 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:03:29 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:03:29 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:03:29 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:04:17 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:04:17 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:04:17 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:04:17 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:09:38 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:09:38 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:09:38 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:09:38 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:12:35 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:12:35 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:12:35 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:12:35 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:12:46 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:12:46 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:12:46 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:12:46 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:14:14 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:14:14 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:14:14 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:14:14 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:19:23 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:19:23 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:19:23 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:19:23 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:19:24 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:19:24 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:19:26 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 11:19:26 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 11:19:26 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:19:26 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:19:26 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:19:26 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:19:31 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model)
+2022-12-02 11:19:31 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName()
+2022-12-02 11:19:31 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName() successfully
+2022-12-02 11:19:31 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model) successfully
+2022-12-02 11:20:00 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:20:00 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:20:00 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:20:00 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:20:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:20:25 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:20:25 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:20:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:21:06 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:21:06 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:21:06 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:21:06 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:21:20 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:21:20 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:21:20 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:21:20 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:30:31 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:31:00 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 11:31:00 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 11:31:13 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:32:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 11:32:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 11:33:23 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:34:04 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:35:44 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 11:35:45 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 11:35:45 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:35:45 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:35:45 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:35:45 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:36:07 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:36:29 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:44:35 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:44:35 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:44:36 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:44:36 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:44:37 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:44:37 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:44:38 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 11:44:38 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 11:44:41 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:44:41 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:44:43 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 11:44:43 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 11:44:43 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:44:43 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:44:43 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:44:43 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:50:03 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:50:03 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:50:03 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:50:03 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:50:06 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 11:50:06 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 11:50:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:50:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:50:10 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 11:50:10 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 11:50:10 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:50:10 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:50:10 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:50:10 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:52:37 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:52:37 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:52:37 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:52:37 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:53:27 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:53:27 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:53:27 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:53:27 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:53:41 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:53:41 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:53:41 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:53:41 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:54:09 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:54:09 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:54:09 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:54:09 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:54:19 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:54:19 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:54:19 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:54:19 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:54:29 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:54:29 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:54:29 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:54:29 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:54:51 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:54:51 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:54:51 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:54:51 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:59:14 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:59:14 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:59:14 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:59:14 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:59:37 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:59:37 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:59:37 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:59:37 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:59:39 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:59:39 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:59:41 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 11:59:41 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 11:59:41 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 11:59:41 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 11:59:41 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 11:59:41 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 11:59:42 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:59:42 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 11:59:45 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 11:59:45 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:03:25 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:03:25 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:03:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:03:25 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:03:25 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:03:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:05:47 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:05:47 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:05:47 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:05:47 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:06:10 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:06:10 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:06:10 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:06:10 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:11:44 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 12:11:44 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 12:11:46 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:11:46 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:11:48 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:11:49 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:11:49 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:11:49 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:11:49 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:11:49 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:11:50 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 12:11:50 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 12:12:48 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:12:48 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:12:58 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:12:58 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:12:58 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:12:58 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:12:58 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:12:58 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:13:03 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:13:03 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:13:05 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:13:05 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:13:05 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:13:05 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:13:05 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:13:05 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:13:06 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model)
+2022-12-02 12:13:06 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName()
+2022-12-02 12:13:06 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName() successfully
+2022-12-02 12:13:06 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model) successfully
+2022-12-02 12:17:14 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:17:14 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:17:25 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:17:25 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:17:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:17:25 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:17:25 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:17:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:19:34 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:19:34 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:19:34 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:19:34 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:20:06 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:20:06 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:20:07 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:20:07 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:20:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:20:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:20:12 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:20:12 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:20:12 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:20:12 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:20:12 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:20:12 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:20:17 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:20:17 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:20:31 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:20:31 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:20:31 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:20:31 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:20:31 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:20:31 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:20:33 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model)
+2022-12-02 12:20:33 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName()
+2022-12-02 12:20:33 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName() successfully
+2022-12-02 12:20:33 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model) successfully
+2022-12-02 12:20:35 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String)
+2022-12-02 12:20:35 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String)
+2022-12-02 12:20:35 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String) successfully
+2022-12-02 12:20:35 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String) successfully
+2022-12-02 12:20:37 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String)
+2022-12-02 12:20:37 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String)
+2022-12-02 12:20:37 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String) successfully
+2022-12-02 12:20:37 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String) successfully
+2022-12-02 12:20:39 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String)
+2022-12-02 12:20:39 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String)
+2022-12-02 12:20:39 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String) successfully
+2022-12-02 12:20:39 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String) successfully
+2022-12-02 12:21:12 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model)
+2022-12-02 12:21:12 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName()
+2022-12-02 12:21:12 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName() successfully
+2022-12-02 12:21:12 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model) successfully
+2022-12-02 12:21:14 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String)
+2022-12-02 12:21:14 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String)
+2022-12-02 12:21:14 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String) successfully
+2022-12-02 12:21:14 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String) successfully
+2022-12-02 12:21:16 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String)
+2022-12-02 12:21:16 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String)
+2022-12-02 12:21:16 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String) successfully
+2022-12-02 12:21:16 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String) successfully
+2022-12-02 12:21:17 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String)
+2022-12-02 12:21:17 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String)
+2022-12-02 12:21:17 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String) successfully
+2022-12-02 12:21:17 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String) successfully
+2022-12-02 12:22:05 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession)
+2022-12-02 12:22:05 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:22:05 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:22:05 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:22:05 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:22:05 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO)
+2022-12-02 12:22:05 ERROR  - Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:22:05 ERROR  - ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:22:09 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession)
+2022-12-02 12:22:09 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:22:09 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:22:09 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:22:09 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:22:09 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO)
+2022-12-02 12:22:09 ERROR  - Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:22:09 ERROR  - ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:22:10 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession)
+2022-12-02 12:22:10 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:22:10 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:22:10 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:22:10 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:22:10 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO)
+2022-12-02 12:22:10 ERROR  - Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:22:10 ERROR  - ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:23:30 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 12:23:30 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 12:23:32 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:23:32 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:23:34 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:23:34 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:23:35 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:23:35 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:23:35 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:23:35 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:23:36 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.complaintStatusPage(HttpSession,Model)
+2022-12-02 12:23:36 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:23:36 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:23:36 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.getCustomerComplaintStatus(Customer)
+2022-12-02 12:23:36 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.getCustomerComplaintStatus(Customer) successfully
+2022-12-02 12:23:36 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.complaintStatusPage(HttpSession,Model) successfully
+2022-12-02 12:23:40 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model)
+2022-12-02 12:23:40 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName()
+2022-12-02 12:23:40 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllPlansName() successfully
+2022-12-02 12:23:40 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.dashboard(Model) successfully
+2022-12-02 12:23:42 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String)
+2022-12-02 12:23:42 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String)
+2022-12-02 12:23:42 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllProviderByPlanName(String) successfully
+2022-12-02 12:23:42 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanProvider(String) successfully
+2022-12-02 12:23:44 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String)
+2022-12-02 12:23:44 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String)
+2022-12-02 12:23:44 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDescriptionByPlanProvider(String) successfully
+2022-12-02 12:23:44 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getplanDescription(String) successfully
+2022-12-02 12:23:46 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String)
+2022-12-02 12:23:46 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String)
+2022-12-02 12:23:46 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getAllDurationByPlanDescription(String) successfully
+2022-12-02 12:23:46 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanDuration(String) successfully
+2022-12-02 12:23:48 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanAmount(PlanRequestDto)
+2022-12-02 12:23:48 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:23:48 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:23:48 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.getPlanAmount(PlanRequestDto) successfully
+2022-12-02 12:23:55 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession)
+2022-12-02 12:23:55 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:23:55 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:23:55 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:23:55 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:23:55 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO)
+2022-12-02 12:23:55 ERROR  - Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:23:55 ERROR  - ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:24:21 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession)
+2022-12-02 12:24:21 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 12:24:21 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 12:24:21 INFO   - started Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String)
+2022-12-02 12:24:21 INFO   - finished Plan com.concerto.springbootmvc.complaintmanagementsystem.service.PlanService.getPlanByDetails(String,String,String) successfully
+2022-12-02 12:24:21 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO)
+2022-12-02 12:24:21 ERROR  - Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.ComplaintService.saveComplaint(ComplaintDTO) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:24:21 ERROR  - ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.addComplaint(ComplaintPlanDto,HttpSession) finished with Exception - not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.concerto.springbootmvc.complaintmanagementsystem.entity.Complaints.plan
+2022-12-02 12:26:32 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 12:26:32 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 12:26:34 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:26:34 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:26:38 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:26:38 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:26:38 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:26:38 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:26:38 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:26:38 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:26:55 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:26:55 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:26:55 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:26:55 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:26:59 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:26:59 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:26:59 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:26:59 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:26:59 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:26:59 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:27:38 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:27:38 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:27:38 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:27:38 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:27:39 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateComplaint(int,Model)
+2022-12-02 12:27:39 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int)
+2022-12-02 12:27:39 INFO   - finished Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int) successfully
+2022-12-02 12:27:39 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateComplaint(int,Model) successfully
+2022-12-02 12:27:45 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateComplaint(int,Model)
+2022-12-02 12:27:45 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int)
+2022-12-02 12:27:45 INFO   - finished Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int) successfully
+2022-12-02 12:27:45 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateComplaint(int,Model) successfully
+2022-12-02 12:28:58 INFO   - started ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateForm(ComplaintRequestDTO)
+2022-12-02 12:28:58 INFO   - started Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int)
+2022-12-02 12:28:58 INFO   - finished Complaints com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getComplaintById(int) successfully
+2022-12-02 12:28:58 INFO   - started boolean com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.updateComplaint(Complaints)
+2022-12-02 12:28:58 INFO   - finished boolean com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.updateComplaint(Complaints) successfully
+2022-12-02 12:28:58 INFO   - finished ResponseData com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.updateForm(ComplaintRequestDTO) successfully
+2022-12-02 12:29:02 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession)
+2022-12-02 12:29:02 INFO   - started List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints()
+2022-12-02 12:29:02 INFO   - finished List com.concerto.springbootmvc.complaintmanagementsystem.service.AdminService.getAllPendingComplaints() successfully
+2022-12-02 12:29:02 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.AdminController.adminDashboard(HttpSession) successfully
+2022-12-02 12:34:52 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 12:34:52 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 12:34:59 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 12:34:59 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 12:34:59 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:34:59 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:34:59 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:34:59 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:37:02 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:37:02 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:37:02 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:37:02 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:37:05 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:37:05 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:37:05 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:37:05 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:37:16 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:37:16 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:37:16 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:37:16 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:37:34 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:37:34 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:37:34 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:37:34 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:37:35 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 12:37:35 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 12:38:47 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:38:47 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:38:47 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:38:47 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:39:22 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:39:22 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:39:22 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:39:22 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:39:23 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 12:39:23 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 12:39:41 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 12:39:41 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 12:39:41 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 12:39:41 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 12:39:42 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 12:39:42 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:03:43 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:03:43 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:03:43 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:03:43 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:03:44 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 13:03:44 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:05:26 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:05:26 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:05:26 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:05:26 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:05:27 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 13:05:27 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:05:50 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 13:05:50 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:06:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 13:06:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:07:01 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile()
+2022-12-02 13:07:01 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile() successfully
+2022-12-02 13:09:22 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:09:22 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:09:23 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:09:23 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:09:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 13:09:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 13:09:26 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 13:09:26 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 13:09:29 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 13:09:29 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 13:09:29 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:09:29 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:09:29 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:09:29 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:11:12 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:11:12 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:11:12 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:11:12 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:14:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 13:14:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 13:14:11 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 13:14:11 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 13:14:14 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index()
+2022-12-02 13:14:14 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.index() successfully
+2022-12-02 13:14:15 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model)
+2022-12-02 13:14:15 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.login(String,Model) successfully
+2022-12-02 13:14:17 INFO   - started UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String)
+2022-12-02 13:14:18 INFO   - finished UserDetails com.concerto.springbootmvc.complaintmanagementsystem.service.LoginUserDetailService.loadUserByUsername(String) successfully
+2022-12-02 13:14:18 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:14:18 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:14:18 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:14:18 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:15:29 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:15:29 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:15:29 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:15:29 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:15:30 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:15:30 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:15:30 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:15:30 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:15:48 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:15:48 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:15:48 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:15:48 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:16:02 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:16:02 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:16:02 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:16:02 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:17:07 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:17:07 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:17:07 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:17:07 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:21:42 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:21:42 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:21:42 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:21:42 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:22:19 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:22:19 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:22:19 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:22:19 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:24:07 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:24:07 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:24:07 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:24:07 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:27:09 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:27:09 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:27:09 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:27:09 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:28:04 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:28:04 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:28:04 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:28:04 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:28:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:28:08 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:28:08 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:28:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:29:20 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:29:20 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:29:20 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:29:20 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:29:22 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:29:22 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:29:22 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:29:22 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:29:33 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:29:33 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:29:33 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:29:33 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:29:35 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:29:35 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:29:35 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:29:35 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:30:50 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:30:50 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:30:50 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:30:50 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:30:51 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:30:51 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:30:51 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:30:51 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:31:45 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:31:45 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:31:45 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:31:45 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:31:47 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:31:47 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:31:47 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:31:47 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:32:22 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:32:22 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:32:22 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:32:22 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:32:44 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:32:44 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:32:44 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:32:44 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:33:03 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:33:03 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:33:03 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:33:03 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:33:50 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:33:50 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:33:50 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:33:50 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:35:08 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession)
+2022-12-02 13:35:08 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String)
+2022-12-02 13:35:08 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerByUsername(String) successfully
+2022-12-02 13:35:08 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.ComplaintController.customerdashboard(Principal,HttpSession) successfully
+2022-12-02 13:35:09 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:35:09 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:35:09 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:35:09 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:36:40 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:36:40 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:36:40 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:36:40 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:37:03 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:37:03 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:37:03 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:37:03 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:37:16 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:37:16 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:37:16 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:37:16 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:37:27 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:37:27 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:37:27 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:37:27 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:37:37 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:37:37 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:37:37 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:37:37 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 13:38:26 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 13:38:26 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 13:38:26 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 13:38:26 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:01:04 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:01:04 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:01:04 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:01:04 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:01:51 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:01:51 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:01:51 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:01:51 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:01:53 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:01:53 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:01:53 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:01:53 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:02:01 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:02:01 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:02:01 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:02:01 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:02:21 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:02:21 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:02:21 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:02:21 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:02:47 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:02:47 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:02:47 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:02:47 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:03:23 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:03:23 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:03:23 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:03:23 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:03:48 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:03:48 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:03:48 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:03:48 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:04:06 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:04:06 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:04:06 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:04:06 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:04:25 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:04:25 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:04:25 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:04:25 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:04:41 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:04:41 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:04:41 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:04:41 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
+2022-12-02 15:05:13 INFO   - started String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model)
+2022-12-02 15:05:13 INFO   - started Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int)
+2022-12-02 15:05:13 INFO   - finished Customer com.concerto.springbootmvc.complaintmanagementsystem.service.CustomerService.getCustomerById(int) successfully
+2022-12-02 15:05:13 INFO   - finished String com.concerto.springbootmvc.complaintmanagementsystem.controller.CustomerController.profile(int,Model) successfully
